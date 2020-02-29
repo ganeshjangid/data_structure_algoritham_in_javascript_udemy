@@ -1,0 +1,23 @@
+{
+  "name": "data_structure_algoritham_udemy",
+  "version": "1.0.0",
+  "description": "this is course for data structure and algorithm in javascript by udemy course, You can do it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshjangid/data_structure_algoritham_in_javascript_udemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshjangid/data_structure_algoritham_in_javascript_udemy/issues"
+  },
+  "homepage": "https://github.com/ganeshjangid/data_structure_algoritham_in_javascript_udemy#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
